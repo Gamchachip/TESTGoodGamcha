@@ -26,8 +26,6 @@ if __name__ == '__main__':
     # 각각의 연산을 수행하고 결과를 출력합니다.
     print('{} + {} = {}'.format(num1, num2, add(num1, num2)))
     print('{} * {} = {}'.format(num1, num2, subtract(num1, num2)))
-    print('{} * {} = {}'.format(num1, num2, multiply(num1, num2)))
-    print('{} * {} = {}'.format(num1, num2, divide(num1, num2)))
 
 
 ##Git test 1
@@ -35,4 +33,6 @@ if __name__ == '__main__':
 ##Git Test Num 22222222222222222222222222222222
 
 ##Git Test Num 3
+
+##this working Branch is Test_Work
 
